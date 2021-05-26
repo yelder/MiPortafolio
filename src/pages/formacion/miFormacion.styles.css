@@ -1,0 +1,21 @@
+.img-resize {
+    width: 10em;
+  }
+  
+  .style {
+    font-size: 20px;
+  }
+  
+  .jumbo-style {
+    background-image: linear-gradient(-225deg, #5f4a05 0%, #291c03 48%, #030200 100%);
+  }
+  
+  .body-title-style {
+    font-size: 25px;
+    font-weight: 800;
+  }
+  #li{
+    display:inline;
+     padding-left:3px;
+     padding-right:3px;
+  }
